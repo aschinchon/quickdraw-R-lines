@@ -26,7 +26,7 @@ install.packages("rjson")
 install.packages("ggplot2")
 install.packages("purrr")
 install.packages("broom")
-install.packages(ISOcodes)
+install.packages("ISOcodes")
 install.packages("xkcd")
 ```
 
